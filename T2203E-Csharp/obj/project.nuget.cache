@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9elnG/YVvMaVNPOuE2adkmVVqIgteDo2us4clGs4pG39TJEF8Ujd/rl6Za4DAmOmk3zZpBOYnclS7axscr61jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tuan Anh\\source\\repos\\T2203E-Csharp\\T2203E-Csharp\\T2203E-Csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuan Anh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
